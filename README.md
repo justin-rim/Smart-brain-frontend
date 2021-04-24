@@ -7,6 +7,8 @@ This app utilizes an API from Clarifai to detect faces in a given image url.
 
 Created with React, Particles.js, Tachyons and Tilt.js.
 
+The functioning app is linked in the "About" section.
+
 ![signIn](https://user-images.githubusercontent.com/43804428/115973297-c0ecd500-a508-11eb-870f-6e663db82913.gif)
 
 <img src="https://user-images.githubusercontent.com/43804428/115973121-951d1f80-a507-11eb-9509-ac7f601dfdc2.png" width="600px">
