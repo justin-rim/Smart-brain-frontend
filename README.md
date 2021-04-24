@@ -22,3 +22,5 @@ Copy a link of any image with a face (currently only working with single individ
 ![faceRecog](https://user-images.githubusercontent.com/43804428/115973284-ac104180-a508-11eb-89f9-e38c48834d6a.gif)
 
 A red box will outline the face of the person if identified.
+
+"Sign Out" will take you to the "Sign-In" page.
