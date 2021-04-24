@@ -2,7 +2,7 @@
 
 # Smart Brain 
 
-![Screen Shot 2021-04-14 at 4 08 10 PM](https://user-images.githubusercontent.com/43804428/115972981-ac0f4200-a506-11eb-8bf5-deb83c696fdb.png)
+![Screen Shot 2021-04-14 at 4 08 10 PM](https://user-images.githubusercontent.com/43804428/115972981-ac0f4200-a506-11eb-8bf5-deb83c696fdb.png | width: "300px")
 This is the front-end portion of the Smart Brain App.
 
 This app utilizes an API from Clarifai to detect faces in a given image url.
