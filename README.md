@@ -1,4 +1,3 @@
-
 # Smart Brain 
 
 This is the front-end portion of the Smart Brain App.
@@ -13,7 +12,7 @@ The functioning app is linked in the "About" section.
 
 ![signIn](https://user-images.githubusercontent.com/43804428/115973297-c0ecd500-a508-11eb-870f-6e663db82913.gif)
 
-<img src="https://user-images.githubusercontent.com/43804428/115973121-951d1f80-a507-11eb-9509-ac7f601dfdc2.png" width="600px">
+<img src="https://user-images.githubusercontent.com/43804428/116296609-45309980-a74f-11eb-8caa-2104c913730f.png width="500px">
 
 ## Instructions
 
@@ -23,8 +22,9 @@ Fill out the form and click the "Register" button once completed. This will take
 
 Copy a link of any image with a face (currently only working with single individuals) and paste within the box and click the "Detect" button. 
 
-![faceRecog](https://user-images.githubusercontent.com/43804428/115973284-ac104180-a508-11eb-89f9-e38c48834d6a.gif)
+![Apr-27-2021 12-05-28](https://user-images.githubusercontent.com/43804428/116298106-e8ce7980-a750-11eb-908d-135c990fa4d9.gif)
 
 A red box will outline the face of the person if identified.
 
 "Sign Out" will take you to the "Sign-In" page.
+
