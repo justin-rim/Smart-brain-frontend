@@ -17,9 +17,9 @@ The functioning app is linked in the "About" section.
 
 ## Instructions
 
-To start, click on the "Register" link at the top-right corner or on the "Sign-In" page.
+To start, click on the "Register" link at the "Sign-In" page or the top-right corner.
 
-Fill out the form, and click the "Register" button on the form. This will take you to the home page.
+Fill out the form and click the "Register" button once completed. This will take you to the home page.
 
 Copy a link of any image with a face (currently only working with single individuals) and paste within the box and click the "Detect" button. 
 
