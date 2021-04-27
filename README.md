@@ -12,7 +12,7 @@ The functioning app is linked in the "About" section.
 
 ![signIn](https://user-images.githubusercontent.com/43804428/115973297-c0ecd500-a508-11eb-870f-6e663db82913.gif)
 
-<img src="https://user-images.githubusercontent.com/43804428/116296609-45309980-a74f-11eb-8caa-2104c913730f.png width="500px">
+<img src="https://user-images.githubusercontent.com/43804428/116296609-45309980-a74f-11eb-8caa-2104c913730f.png" width="500px">
 
 ## Instructions
 
