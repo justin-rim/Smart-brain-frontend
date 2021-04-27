@@ -5,7 +5,7 @@ This is the front-end portion of the Smart Brain App.
 
 To see the back-end, check this https://github.com/justin-rim/Smart-brain-api. 
 
-This app utilizes an API from Clarifai to detect faces in a given image url.
+This app utilizes an API from Clarifai to detect faces in a given image URL.
 
 Created with React, Particles.js, Tachyons and Tilt.js.
 
